@@ -295,6 +295,13 @@ Once password is entered, it will ask for plugin installation, which you can cho
 something which was not configured with the script. Once done, the below screen will be displayed.
 
 ![Initial Jenkins Screen](https://github.com/arun786/Terraform/blob/master/images/2.JPG)
+
 ![Initial Jenkins Screen](https://github.com/arun786/Terraform/blob/master/images/3.JPG)
+
 ![Initial Jenkins Screen](https://github.com/arun786/Terraform/blob/master/images/4.JPG)
+
+![Initial Jenkins Screen](https://github.com/arun786/Terraform/blob/master/images/5.JPG)
+
+When we go to the manage jenkins, plugin Manager and Installed , we will see all the plugins mentioned in the script installed
+
 ![Initial Jenkins Screen](https://github.com/arun786/Terraform/blob/master/images/5.JPG)
