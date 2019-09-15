@@ -283,6 +283,18 @@
             user jenkins
             
             
-# Once the script is run, we need to configure Jenkins manually
+# Step 2 Configure Jenkins manually
+
+Once the script is run, we need to configure Jenkins manually, password will be displayed in the terminal
+out parameter will have the ec2 instance IP, since the port is 80, just using the IP without port 
+will bring the initial screen of Jenkins as below.
 
 ![Initial Jenkins Screen](https://github.com/arun786/Terraform/blob/master/images/1.JPG)
+
+Once password is entered, it will ask for plugin installation, which you can choose as manual and configure 
+something which was not configured with the script. Once done, the below screen will be displayed.
+
+![Initial Jenkins Screen](https://github.com/arun786/Terraform/blob/master/images/2.JPG)
+![Initial Jenkins Screen](https://github.com/arun786/Terraform/blob/master/images/3.JPG)
+![Initial Jenkins Screen](https://github.com/arun786/Terraform/blob/master/images/4.JPG)
+![Initial Jenkins Screen](https://github.com/arun786/Terraform/blob/master/images/5.JPG)
