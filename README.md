@@ -304,4 +304,4 @@ something which was not configured with the script. Once done, the below screen 
 
 When we go to the manage jenkins, plugin Manager and Installed , we will see all the plugins mentioned in the script installed
 
-![Initial Jenkins Screen](https://github.com/arun786/Terraform/blob/master/images/5.JPG)
+![Initial Jenkins Screen](https://github.com/arun786/Terraform/blob/master/images/6.JPG)
